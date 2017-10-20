@@ -1,0 +1,181 @@
+html, body
+{
+   height: 100%;
+}
+div#space
+{
+   width: 1px;
+   height: 50%;
+   margin-bottom: -200px;
+   float:left
+}
+div#container
+{
+   width: 300px;
+   height: 400px;
+   margin: 0 auto;
+   position: relative;
+   clear: left;
+}
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+   margin: 0;
+   padding: 0;
+}
+#wb_Form2
+{
+   background-color: #D0053A;
+   border: 3px #FFFFFF solid;
+}
+#Editbox2
+{
+   border: 0px #374FB3 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: 'Trebuchet MS';
+   font-weight: bold;
+   font-size: 24px;
+   padding: 5px 5px 5px 5px;
+   text-align: center;
+   vertical-align: middle;
+}
+#Editbox4
+{
+   border: 0px #374FB3 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: 'Trebuchet MS';
+   font-weight: bold;
+   font-size: 24px;
+   padding: 5px 5px 5px 5px;
+   text-align: center;
+   vertical-align: middle;
+}
+#Button1
+{
+   border: 0px #A9A9A9 solid;
+   background-color: #FFFF00;
+   color: #000000;
+   font-family: 'Trebuchet MS';
+   font-weight: bold;
+   font-size: 24px;
+}
+#Button1:hover
+{
+   -webkit-transform: rotate(0deg) scale(1.02,1.02);
+   -moz-transform: rotate(0deg) scale(1.02,1.02);
+   -ms-transform: rotate(0deg) scale(1.02,1.02);
+   transform: rotate(0deg) scale(1.02,1.02);
+   -webkit-transition: -webkit-transform 50ms linear 0ms;
+   -moz-transition: transform 50ms linear 0ms;
+   -ms-transition: transform 50ms linear 0ms;
+   transition: transform 50ms linear 0ms;
+}
+#wb_Text19 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text19 div
+{
+   text-align: center;
+   white-space: nowrap;
+}
+#Editbox1
+{
+   border: 0px #374FB3 solid;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-family: 'Trebuchet MS';
+   font-weight: bold;
+   font-size: 24px;
+   padding: 5px 5px 5px 5px;
+   text-align: center;
+   vertical-align: middle;
+}
+#Editbox1
+{
+   position: absolute;
+   left: 32px;
+   top: 168px;
+   width: 220px;
+   height: 40px;
+   line-height: 40px;
+   z-index: 4;
+}
+#wb_uid1
+{
+   color: #FFFFFF;
+   font-family: Trebuchet MS;
+   font-size: 24px;
+}
+#wb_Text19
+{
+   position: absolute;
+   left: 17px;
+   top: 18px;
+   width: 265px;
+   height: 62px;
+   text-align: center;
+   z-index: 3;
+}
+#wb_uid2
+{
+   line-height: 28px;
+}
+#Editbox2
+{
+   position: absolute;
+   left: 32px;
+   top: 107px;
+   width: 220px;
+   height: 40px;
+   line-height: 40px;
+   z-index: 2;
+}
+#wb_uid3
+{
+   color: #FFFFFF;
+   font-family: Trebuchet MS;
+   font-size: 24px;
+}
+#Editbox4
+{
+   position: absolute;
+   left: 32px;
+   top: 230px;
+   width: 220px;
+   height: 40px;
+   line-height: 40px;
+   z-index: 0;
+}
+#Button1
+{
+   position: absolute;
+   left: 32px;
+   top: 303px;
+   width: 230px;
+   height: 60px;
+   z-index: 1;
+}
+#wb_Form2
+{
+   position: absolute;
+   left: 0px;
+   top: 0px;
+   width: 294px;
+   height: 394px;
+   z-index: 5;
+   position: center;
+}
+#wb_uid0
+{
+   line-height: 31px;
+}

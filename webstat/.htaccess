@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/prazdnic.com.ua/webstat"
+AuthUserFile /var/www/prazdnic/data/etc/3227657.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>
