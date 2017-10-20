@@ -9,8 +9,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && $_POST['formid'] == 'form2')
    $mailto = 'zakaz@jora.biz';
    $mailfrom = isset($_POST['email']) ? $_POST['email'] : $mailto;
    $mailcc = 'zakaz@prazdnic.com.ua';
-   $subject = 'Paket Medium. Perezvonite!';
-   $message = 'Paket Medium. Perezvonite!';
+   $subject = 'Пакет Медиум prazdnic.com.ua!';
+   $message = 'Пакет Медиум prazdnic.com.ua!';
    $success_url = './fin1.php';
    $error_url = '';
    $error = '';
