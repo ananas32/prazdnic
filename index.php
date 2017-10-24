@@ -8,7 +8,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && $_POST['formid'] == 'form1')
 {
    $mailto = 'it@jora.biz';
    $mailfrom = isset($_POST['email']) ? $_POST['email'] : $mailto;
-   $mailcc = 'zakaz@prazdnic.com.ua';
+   $mailcc = 'zakaz@prazdnic.com.ua, bigudishow@ukr.net';
    $subject = 'U menya est voprosy prazdnic.com.ua ';
    $message = 'U menya est voprosy prazdnic.com.ua ';
    $success_url = './fin.html';
@@ -88,7 +88,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && $_POST['formid'] == 'form4')
 {
    $mailto = 'it@jora.biz';
    $mailfrom = isset($_POST['email']) ? $_POST['email'] : $mailto;
-   $mailcc = 'zakaz@prazdnic.com.ua';
+   $mailcc = 'zakaz@prazdnic.com.ua, bigudishow@ukr.net';
    $subject = 'Hochu predlozhenie soglasno budzhetu!';
    $message = 'Hochu predlozhenie soglasno budzhetu';
    $success_url = './fin.html';
@@ -168,7 +168,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && $_POST['formid'] == 'form2')
 {
    $mailto = 'it@jora.biz';
    $mailfrom = isset($_POST['email']) ? $_POST['email'] : $mailto;
-   $mailcc = 'zakaz@prazdnic.com.ua';
+   $mailcc = 'zakaz@prazdnic.com.ua, bigudishow@ukr.net';
    $subject = 'Zajavka s akciji Comedy Show!';
    $message = 'Zajavka s akciji Comedy Show!';
    $success_url = './fin.html';
@@ -248,7 +248,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && $_POST['formid'] == 'indexform3')
 {
    $mailto = 'it@jora.biz';
    $mailfrom = isset($_POST['email']) ? $_POST['email'] : $mailto;
-   $mailcc = 'zakaz@prazdnic.com.ua';
+   $mailcc = 'zakaz@prazdnic.com.ua, bigudishow@ukr.net';
    $subject = 'Hochu naznachit-vstrechu.prazdnic.com.ua';
    $message = 'Hochu naznachit-vstrechu.prazdnic.com.ua';
    $success_url = './fin.html';
@@ -554,7 +554,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="wb_Line3">
 <img src="images/img0011.png" id="Line3" alt=""></div>
 <div id="wb_Image3">
-<img src="images/microfon.png" id="Image3" alt=""></div>
+<a href="smain.php"><img src="images/microfon.png" id="Image3" alt="" border="0"></a></div>
 <div id="wb_Text21">
 <span id="wb_uid1"><strong>А ДАВАЙТЕ&nbsp;&nbsp;&nbsp;&nbsp; ВСТРЕТИМСЯ?!</strong></span></div>
 <div id="wb_Text22">
@@ -608,7 +608,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="Html7">
 <span class="counter" id="num">3094</span></div>
 <div id="wb_Image8">
-<img src="images/microfon.png" id="Image8" alt=""></div>
+<a href="smain.php"><img src="images/microfon.png" id="Image8" alt="" border="0"></a></div>
 <div id="wb_Text9">
 <span id="wb_uid6"><strong>ПРОВЕДУ САМЫЙ ВЕСЕЛЫЙ ПРАЗДНИК ВАШЕЙ ЖИЗНИ!</strong></span></div>
 <div id="wb_Line1">
@@ -664,7 +664,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="wb_Line4">
 <img src="images/img0012.png" id="Line4" alt=""></div>
 <div id="wb_Image18">
-<img src="images/microfon.png" id="Image18" alt=""></div>
+<a href="smain.php"><img src="images/microfon.png" id="Image18" alt="" border="0"></a></div>
 <div id="wb_Text26">
 <span id="wb_uid19"><strong>НАШИХ ДОВОЛЬНЫХ КЛИЕНТОВ:)</strong></span></div>
 <div id="wb_Bookmark1">
@@ -806,7 +806,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="wb_Line6">
 <img src="images/img0021.png" id="Line6" alt=""></div>
 <div id="wb_Image24">
-<img src="images/microfon.png" id="Image24" alt=""></div>
+<a href="smain.php"><img src="images/microfon.png" id="Image24" alt="" border="0"></a></div>
 <div id="wb_Text28">
 <span id="wb_uid40"><strong>ПРИХОДИТЕ В ОФИС И ПОЛУЧИТЕ ЭКСКЛЮЗИВНЫЙ ПОДАРОК ЛИЧНО ОТ ДЯДИ ЖОРЫ!</strong></span></div>
 </div>
@@ -973,7 +973,7 @@ link = '';     }
 <div id="wb_Line8">
 <img src="images/img0025.png" id="Line8" alt=""></div>
 <div id="wb_Image25">
-<img src="images/microfon.png" id="Image25" alt=""></div>
+<a href="smain.php"><img src="images/microfon.png" id="Image25" alt="" border="0"></a></div>
 </div>
 </div>
 <div id="Layer1">
@@ -1014,7 +1014,7 @@ link = '';     }
 <div id="wb_Line2">
 <img src="images/img0035.png" id="Line2" alt=""></div>
 <div id="wb_Image39">
-<img src="images/microfon.png" id="Image39" alt=""></div>
+<a href="smain.php"><img src="images/microfon.png" id="Image39" alt="" border="0"></a></div>
 <div id="wb_Text35">
 <span id="wb_uid83"><strong>ДЛЯ ВАС 3 ДОСТОЙНЫХ ПРЕДЛОЖЕНИЯ НА РАЗНЫЕ БЮДЖЕТЫ</strong></span></div>
 <div id="wb_Text36">
@@ -1167,7 +1167,7 @@ link = '';     }
 <div id="wb_Line30">
 <img src="images/img0063.png" id="Line30" alt=""></div>
 <div id="wb_Image41">
-<img src="images/microfon.png" id="Image41" alt=""></div>
+<a href="smain.php"><img src="images/microfon.png" id="Image41" alt="" border="0"></a></div>
 <div id="wb_Text41">
 <span id="wb_uid132"><strong>СМОТРИТЕ ВОЗМОЖНЫЕ ВАРИАНТЫ ПРОВЕДЕНИЯ ВАШЕГО ПРАЗДНИКА</strong></span></div>
 </div>

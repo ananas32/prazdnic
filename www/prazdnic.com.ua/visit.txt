@@ -1,0 +1,152 @@
+12:42:46,10/19/17 109.95.55.202 Mozilla/5.0 (Windows NT 6.1; rv:56.0) Gecko/20100101 Firefox/56.0
+13:05:31,10/19/17 94.154.254.7 Mozilla/5.0 (Windows NT 6.1; rv:56.0) Gecko/20100101 Firefox/56.0
+13:06:25,10/19/17 94.154.254.7 Mozilla/5.0 (Windows NT 6.1; rv:56.0) Gecko/20100101 Firefox/56.0
+13:10:36,10/19/17 94.154.254.7 Mozilla/5.0 (Windows NT 6.1; rv:56.0) Gecko/20100101 Firefox/56.0
+13:15:05,10/19/17 94.154.254.7 Mozilla/5.0 (Windows NT 6.1; rv:56.0) Gecko/20100101 Firefox/56.0
+17:32:06,10/19/17 94.154.254.7 Mozilla/5.0 (Windows NT 6.1; rv:56.0) Gecko/20100101 Firefox/56.0
+19:43:34,10/19/17 109.95.55.202 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0
+19:48:02,10/19/17 109.95.55.202 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0
+19:52:47,10/19/17 185.182.81.4 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+19:55:48,10/19/17 109.95.55.202 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0
+20:00:30,10/19/17 109.95.55.202 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0
+20:03:50,10/19/17 109.95.55.202 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0
+20:09:31,10/19/17 109.95.55.202 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0
+14:20:54,10/20/17 37.54.140.117 Mozilla/5.0 (Windows NT 6.1; rv:56.0) Gecko/20100101 Firefox/56.0
+14:21:04,10/20/17 37.54.140.117 Mozilla/5.0 (Windows NT 6.1; rv:56.0) Gecko/20100101 Firefox/56.0
+14:21:10,10/20/17 37.54.140.117 Mozilla/5.0 (Windows NT 6.1; rv:56.0) Gecko/20100101 Firefox/56.0
+14:21:17,10/20/17 37.54.140.117 Mozilla/5.0 (Windows NT 6.1; rv:56.0) Gecko/20100101 Firefox/56.0
+14:28:04,10/20/17 37.54.140.117 Mozilla/5.0 (Windows NT 6.1; rv:56.0) Gecko/20100101 Firefox/56.0
+14:28:20,10/20/17 37.54.140.117 Mozilla/5.0 (Windows NT 6.1; rv:56.0) Gecko/20100101 Firefox/56.0
+14:31:39,10/20/17 37.54.140.117 Mozilla/5.0 (Windows NT 6.1; rv:56.0) Gecko/20100101 Firefox/56.0
+14:31:56,10/20/17 37.54.140.117 Mozilla/5.0 (Windows NT 6.1; rv:56.0) Gecko/20100101 Firefox/56.0
+14:32:59,10/20/17 37.54.140.117 Mozilla/5.0 (Windows NT 6.1; rv:56.0) Gecko/20100101 Firefox/56.0
+14:34:15,10/20/17 37.54.140.117 Mozilla/5.0 (Windows NT 6.1; rv:56.0) Gecko/20100101 Firefox/56.0
+21:43:05,10/20/17 185.182.81.19 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+22:12:23,10/21/17 66.249.64.134 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+22:18:43,10/21/17 66.249.64.153 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+23:49:22,10/21/17 66.249.64.129 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+23:59:35,10/21/17 66.249.64.134 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+00:04:34,10/22/17 66.249.64.134 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+00:19:42,10/22/17 66.249.64.132 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+00:24:54,10/22/17 66.249.64.134 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+00:27:35,10/22/17 66.249.64.151 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+01:25:53,10/22/17 66.249.64.134 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+01:31:03,10/22/17 66.249.64.129 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+01:36:13,10/22/17 66.249.64.129 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+01:50:35,10/22/17 66.249.64.151 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+01:51:36,10/22/17 66.249.64.132 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+01:56:23,10/22/17 66.249.64.134 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+02:01:24,10/22/17 66.249.64.129 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+02:09:30,10/22/17 66.249.64.155 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+02:16:44,10/22/17 66.249.64.132 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+02:22:07,10/22/17 66.249.64.132 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+02:27:07,10/22/17 66.249.64.132 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+02:32:02,10/22/17 66.249.64.132 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+02:37:15,10/22/17 66.249.64.129 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+02:37:27,10/22/17 66.249.64.153 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+02:42:25,10/22/17 66.249.64.129 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+02:47:21,10/22/17 66.249.64.132 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+13:06:45,10/22/17 66.249.64.132 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+13:35:48,10/22/17 66.249.64.129 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+14:22:32,10/22/17 66.249.64.129 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+14:27:28,10/22/17 66.249.64.153 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+14:30:28,10/22/17 66.249.64.151 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+14:34:08,10/22/17 66.249.64.153 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+14:35:21,10/22/17 66.249.64.155 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+14:40:16,10/22/17 66.249.64.153 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+14:45:15,10/22/17 66.249.64.155 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+14:50:19,10/22/17 66.249.64.151 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+14:53:46,10/22/17 66.249.64.151 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+14:55:35,10/22/17 66.249.64.155 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+14:57:16,10/22/17 66.249.64.153 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+15:20:33,10/22/17 62.138.2.243 Mozilla/5.0 (compatible; MJ12bot/v1.4.7; http://mj12bot.com/)
+15:38:19,10/22/17 66.249.64.132 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+16:54:05,10/22/17 66.249.64.134 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+16:54:51,10/22/17 66.249.64.153 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+18:09:55,10/22/17 66.249.64.129 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+19:25:39,10/22/17 66.249.64.129 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+20:41:26,10/22/17 66.249.64.132 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+20:48:54,10/22/17 66.249.64.151 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+21:57:13,10/22/17 66.249.64.132 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+22:04:45,10/22/17 66.249.64.151 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+00:28:48,10/23/17 66.249.64.132 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+01:52:02,10/23/17 66.249.64.153 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+02:37:51,10/23/17 95.108.213.10 Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+03:00:21,10/23/17 66.249.64.134 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+04:16:08,10/23/17 66.249.64.129 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+05:31:55,10/23/17 66.249.64.129 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+08:10:57,10/23/17 66.249.64.151 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+09:26:44,10/23/17 66.249.64.151 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+10:05:35,10/23/17 109.95.55.202 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0
+10:35:03,10/23/17 66.249.64.129 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+10:42:31,10/23/17 66.249.64.153 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+11:58:18,10/23/17 66.249.64.151 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+13:14:05,10/23/17 66.249.64.151 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+14:29:52,10/23/17 66.249.64.151 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+15:45:39,10/23/17 66.249.64.151 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+16:52:27,10/23/17 66.249.64.129 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+16:53:58,10/23/17 66.249.64.132 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+17:01:26,10/23/17 66.249.64.153 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+18:09:45,10/23/17 66.249.64.132 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+18:17:13,10/23/17 66.249.64.155 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+19:25:32,10/23/17 66.249.64.132 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+19:33:00,10/23/17 66.249.64.151 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+20:41:19,10/23/17 66.249.64.129 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+20:48:47,10/23/17 66.249.64.155 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+21:57:06,10/23/17 66.249.64.132 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+22:04:45,10/23/17 66.249.64.155 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+23:12:53,10/23/17 66.249.64.134 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+23:20:21,10/23/17 66.249.64.151 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+23:55:22,10/23/17 66.249.66.156 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+00:28:40,10/24/17 66.249.66.158 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+00:36:08,10/24/17 66.249.66.157 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+01:23:31,10/24/17 66.249.66.158 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+01:24:35,10/24/17 66.249.66.157 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+01:25:31,10/24/17 66.249.66.157 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+01:26:35,10/24/17 66.249.66.157 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+01:30:59,10/24/17 66.249.66.159 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+02:51:51,10/24/17 66.249.66.159 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+04:07:38,10/24/17 66.249.66.157 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+04:46:58,10/24/17 66.249.66.75 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+05:23:25,10/24/17 66.249.66.75 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+06:39:12,10/24/17 66.249.66.76 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+07:54:58,10/24/17 66.249.66.75 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+08:33:58,10/24/17 66.249.66.16 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+09:10:45,10/24/17 66.249.66.75 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+10:03:34,10/24/17 151.80.31.150 Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+10:20:14,10/24/17 151.80.31.151 Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+10:26:41,10/24/17 66.249.66.77 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+10:51:18,10/24/17 151.80.31.152 Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+10:53:57,10/24/17 66.249.66.20 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+11:35:35,10/24/17 66.249.66.16 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+11:42:20,10/24/17 66.249.66.76 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+11:54:56,10/24/17 151.80.31.153 Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+12:02:03,10/24/17 66.249.66.16 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+12:08:14,10/24/17 151.80.31.150 Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+12:30:39,10/24/17 151.80.31.154 Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+12:34:13,10/24/17 66.249.66.76 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+12:36:06,10/24/17 66.249.66.20 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+12:53:52,10/24/17 151.80.31.153 Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+12:58:06,10/24/17 66.249.66.77 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+13:55:54,10/24/17 217.182.132.23 Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+14:13:54,10/24/17 66.249.66.76 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+14:37:10,10/24/17 66.249.66.77 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+15:29:40,10/24/17 66.249.66.77 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+16:07:38,10/24/17 109.95.55.202 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0
+16:07:56,10/24/17 109.95.55.202 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0
+16:45:27,10/24/17 66.249.66.75 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+17:00:56,10/24/17 66.249.66.18 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+17:12:17,10/24/17 66.249.66.18 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+17:31:12,10/24/17 66.249.66.20 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+17:40:42,10/24/17 109.95.55.202 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0
+17:48:58,10/24/17 46.171.148.141 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+18:01:14,10/24/17 66.249.66.159 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+18:06:06,10/24/17 46.171.148.141 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+18:15:35,10/24/17 109.95.55.202 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0
+18:58:13,10/24/17 66.249.66.157 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+19:08:21,10/24/17 109.95.55.202 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0
+19:13:21,10/24/17 66.249.66.156 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+19:17:01,10/24/17 66.249.66.159 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+19:28:29,10/24/17 66.249.66.155 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+19:36:03,10/24/17 66.249.66.155 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+19:55:17,10/24/17 109.95.55.202 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0

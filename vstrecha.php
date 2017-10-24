@@ -8,7 +8,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && $_POST['formid'] == 'indexform3')
 {
    $mailto = 'zakaz@jora.biz';
    $mailfrom = isset($_POST['email']) ? $_POST['email'] : $mailto;
-   $mailcc = 'zakaz@prazdnic.com.ua';
+   $mailcc = 'zakaz@prazdnic.com.ua, bigudishow@ukr.net';
    $subject = 'Hochu proverit datu. Perezvonite!';
    $message = 'Hochu proverit datu. Perezvonite!';
    $success_url = './fin.html';
@@ -88,7 +88,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && $_POST['formid'] == 'form5')
 {
    $mailto = 'zakaz@jora.biz';
    $mailfrom = isset($_POST['email']) ? $_POST['email'] : $mailto;
-   $mailcc = 'zakaz@prazdnic.com.ua';
+   $mailcc = 'zakaz@prazdnic.com.ua, bigudishow@ukr.net';
    $subject = 'Hochu zabroniravat vstrechu. Perezvonite!';
    $message = 'Hochu zabroniravat vstrechu. Perezvonite!';
    $success_url = './fin.html';

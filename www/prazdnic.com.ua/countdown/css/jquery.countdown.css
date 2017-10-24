@@ -1,0 +1,96 @@
+
+#note{
+	color: #8D8D8D;
+	font-size: 16px;
+	font-family:Tahoma;
+	margin: 0 auto;
+	padding: 0px;
+	text-align: center;
+	text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.3);
+	width: 100%;
+	display:none;
+}
+
+.countdownHolder{
+	width:100%;
+	margin:0 auto;
+	font: 53px/1.5 'Open Sans Condensed',sans-serif;
+	text-align:center;
+	letter-spacing:-3px;
+}
+
+.position{
+	display: inline-block;
+	height: 1.6em;
+	overflow: hidden;
+	position: relative;
+	width: 1.05em;
+}
+
+.digit{
+	position:absolute;
+	display:block;
+	width:1em;
+	background-color:#F5F5F5;
+	border-radius:0.2em;
+	text-align:center;
+	color:#000000;
+	letter-spacing:-1px;
+}
+
+.digit.static{
+	box-shadow:1px 1px 1px rgba(4, 4, 4, 0.35);
+	
+	background-image: linear-gradient(bottom, #FFFFFF 10%, #F5F5F5 40%);
+	background-image: -o-linear-gradient(bottom, #FFFFFF 10%, #F5F5F5 40%);
+	background-image: -moz-linear-gradient(bottom, #FFFFFF 10%, #F5F5F5 40%);
+	background-image: -webkit-linear-gradient(bottom, #FFFFFF 10%, #F5F5F5 40%);
+	background-image: -ms-linear-gradient(bottom, #FFFFFF 10%, #F5F5F5 40%);
+	
+	background-image: -webkit-gradient(
+		linear,
+		left bottom,
+		left top,
+		color-stop(0.5, #FFFFFF),
+		color-stop(0.5, #F5F5F5)
+	);
+}
+
+/**
+ * You can use these classes to hide parts
+ * of the countdown that you don't need.
+ */
+
+.countDays{ /* display:none !important;*/ }
+.countDiv0{ /* display:none !important;*/ }
+.countHours{}
+.countDiv1{}
+.countMinutes{}
+.countDiv2{}
+.countSeconds{}
+
+
+.countDiv{
+	display:inline-block;
+	width:16px;
+	height:1.6em;
+	position:relative;
+}
+
+.countDiv:before,
+.countDiv:after{
+	position:absolute;
+	width:5px;
+	height:5px;
+	background-color:#F5F5F5;
+	border-radius:50%;
+	left:50%;
+	margin-left:-3px;
+	top:0.5em;
+	box-shadow:1px 1px 1px rgba(4, 4, 4, 0.5);
+	content:'';
+}
+
+.countDiv:after{
+	top:0.9em;
+}

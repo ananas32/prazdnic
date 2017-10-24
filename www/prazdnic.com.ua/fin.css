@@ -1,0 +1,194 @@
+html, body
+{
+   height: 100%;
+}
+div#space
+{
+   width: 1px;
+   height: 50%;
+   margin-bottom: -426px;
+   float:left
+}
+div#container
+{
+   width: 700px;
+   height: 853px;
+   margin: 0 auto;
+   position: relative;
+   clear: left;
+}
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+   margin: 0;
+   padding: 0;
+}
+#wb_Text4 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text4 div
+{
+   text-align: center;
+}
+#wb_Text38 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text38 div
+{
+   text-align: center;
+   white-space: nowrap;
+}
+#Image13
+{
+   border: 0px #000000 solid;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#YouTube4
+{
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text1 div
+{
+   text-align: center;
+   white-space: nowrap;
+}
+#Shape15
+{
+   border-width: 0;
+}
+#wb_uid1
+{
+   line-height: 49px;
+}
+#wb_Text1
+{
+   position: absolute;
+   left: 0px;
+   top: 225px;
+   width: 700px;
+   height: 32px;
+   text-align: center;
+   z-index: 4;
+}
+#wb_uid2
+{
+   color: #1E1E1E;
+   font-family: Trebuchet MS;
+   font-size: 27px;
+}
+#wb_uid3
+{
+   line-height: 32px;
+}
+#wb_YouTube4
+{
+   position: absolute;
+   left: 81px;
+   top: 293px;
+   width: 538px;
+   height: 351px;
+   z-index: 3;
+}
+#wb_Image13
+{
+   position: absolute;
+   left: 50px;
+   top: 267px;
+   width: 600px;
+   height: 515px;
+   z-index: 2;
+}
+#wb_uid4
+{
+   color: #1E1E1E;
+   font-family: Trebuchet MS;
+   font-size: 21px;
+}
+#wb_uid5
+{
+   line-height: 28px;
+}
+#wb_Text4
+{
+   position: absolute;
+   left: 0px;
+   top: 8px;
+   width: 700px;
+   height: 81px;
+   text-align: center;
+   z-index: 0;
+}
+#wb_uid6
+{
+   color: #1E1E1E;
+   font-family: Trebuchet MS;
+   font-size: 21px;
+}
+#wb_uid7
+{
+   line-height: 27px;
+}
+#wb_uid8
+{
+   color: #1E1E1E;
+   font-family: Trebuchet MS;
+   font-size: 21px;
+}
+#wb_Shape15
+{
+   position: absolute;
+   left: 79px;
+   top: 788px;
+   width: 542px;
+   height: 65px;
+   z-index: 5;
+}
+#Shape15
+{
+   width: 542px;
+   height: 65px;
+   cursor: pointer;
+}
+#wb_Text38
+{
+   position: absolute;
+   left: 0px;
+   top: 95px;
+   width: 700px;
+   height: 113px;
+   text-align: center;
+   z-index: 1;
+}
+#wb_uid0
+{
+   color: #DC143C;
+   font-family: Trebuchet MS;
+   font-size: 64px;
+}
